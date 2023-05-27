@@ -2,6 +2,8 @@
   <h1>Hey there 🤘, I'm Artur!</h1>
 </div>
 
+![](https://komarev.com/ghpvc/?username=arturpuchkof)
+
 <!-- Social icons section-->
 <div align="center">
   <p>
