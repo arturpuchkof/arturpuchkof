@@ -25,8 +25,8 @@
 <!-- Education section -->
 <div>
   <table width="100%" border='0'>
-    <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="/images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Non-Commercial IT School RedRover</b></br>QA Automation with Java (online course)</br></td><td>In Progress</td></tr>
-    <tr><td width="25%" valign="bottom" align="center"><a href="https://www.bsuir.by/en/"><img src="/images/bsuir.png" width="100" height="100" alt="BSUIR logo"></td><td valign="middle"><b>BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS</b></br>Institute for Complex Security and Special Instrumentation</br>Software Engineering (Bachelor's Degree)</td><td>2009 - 2014</td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://redrover.school/"><img src="images/redrover.png" width="100" height="100" alt="RedRover School logo"></td><td valign="middle"><b>Non-Commercial IT School RedRover</b></br>QA Automation with Java (online course)</br></td><td>In Progress</td></tr>
+    <tr><td width="25%" valign="bottom" align="center"><a href="https://www.bsuir.by/en/"><img src="images/bsuir.png" width="100" height="100" alt="BSUIR logo"></td><td valign="middle"><b>BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS</b></br></br></td><td>2009 - 2014</td></tr>
   </table>
 </div>
 
